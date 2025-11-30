@@ -1,4 +1,16 @@
+👨‍💻 About Me
 
+📱 Flutter App Developer with strong experience in mobile app design and development
+
+🎨 Skilled in converting Figma designs into pixel-perfect Flutter UIs, including custom widgets, animations, and responsive layouts
+
+🌐 Experienced in integrating RESTful APIs, JSON handling, and backend connectivity
+
+🧩 Familiar with multiple state-management techniques: Provider, GetX, Riverpod, Bloc
+
+💡 Passionate about building scalable apps and improving user experience
+
+🚀 Always learning, exploring, and crafting better digital solutions
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anup Howlader) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anup Howlader) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anup Howlader) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuphowlader247@gmail.com) 
 
